@@ -19,7 +19,6 @@ venv/
 Thumbs.db
 
 # Project specific
-*.csv
 *.log
 temp/
 uploads/
